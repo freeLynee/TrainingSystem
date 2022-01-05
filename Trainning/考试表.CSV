@@ -1,0 +1,5 @@
+staff_id,staff_name,course_id,course_name,is_endClass,grade,graduation,term,failRecord
+10231106002,李耀,35423,营销策划,是,69,YES,2020春,0
+10231106002,李耀,35483,文案创意,是,34,NO,2020春,1
+10231106002,李耀,35483,文案创意,是,67,YES,2020秋,1
+10231106002,李耀,35497,工业优化,否,0,,2022春,0
